@@ -19,3 +19,6 @@
 - [x] UX/UI Design
 
 
+[Behance](https://www.behance.net/Kellysalesv) <br>
+[Instagram](https://www.instagram.com/kellysalesv/)<br>
+[Linkedin](https://www.linkedin.com/in/kellysalesv/)<br>

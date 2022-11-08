@@ -1,17 +1,19 @@
-### Hi there 👋
+`Hello World ` :wave:
+# Olá sou Kelly Sales :blush:
+> Sou Designer [clica aqui :link: ](https://www.behance.net/Kellysalesv) (Logo logo o Behance será atualizado :wink:) , tenho 27 anos , sou iniciante no universo da programação , apaixonada por artes , design minimalista , músicas ~e constantemente fazendo piadinhas ruins~. Atualmente estou estudando front-end. 
 
-<!--
-**Kellysalesv/Kellysalesv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tecnologias e Habilidades  :art: :black_nib:
+- [x] Adobe Illustrator
+- [x] Indesign 
+- [x] Photoshop
+- [x] Premiere
+- [x] Conhecimentos básicos sobre modelagem 3D
 
-Here are some ideas to get you started:
+### Estou aprendendo :mortar_board: :computer:
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [x] Git e GitHub
+- [x] UX/UI Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...![octocat-1667505835461](https://user-images.githubusercontent.com/101872234/199823977-df243e94-c750-4bd4-998b-7df2f4feee43.png)
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

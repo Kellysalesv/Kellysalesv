@@ -18,7 +18,6 @@
 - [x] Git e GitHub
 - [x] UX/UI Design
 
-
 *[Behance](https://www.behance.net/Kellysalesv)* 
 *[Instagram](https://www.instagram.com/kellysalesv/)*
 *[Linkedin](https://www.linkedin.com/in/kellysalesv/)*
